@@ -12,13 +12,21 @@
   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
 }
 
-
-border: 2px solid rgb(0, 0, 0);
-  border-radius: 8px;
-  padding: 10px;
-  background-color: rgb(179, 219, 255);
-  display: block;
+#centerForm {
   margin: auto;
-  margin-top: 20px;
-  width: 100%;
-  box-sizing: border-box;
+  width: 90%;
+  border: 3px solid rgb(207, 53, 14);
+  padding: 10px;
+  border-radius: 8px;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 50px;
+  font-weight: ;
+}
+
+
+
+
+

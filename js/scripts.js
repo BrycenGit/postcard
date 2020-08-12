@@ -7,5 +7,6 @@ $(document).ready(function() {
     $("#personName").text(nameInput);
 
     $("#letter").show();
+    $("#centerForm").hide();
   });
 });
